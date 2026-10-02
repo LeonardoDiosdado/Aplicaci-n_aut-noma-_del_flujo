@@ -8,4 +8,4 @@ ejecutarlo y comprobar su resultado.
 • El código y la estructura completa del proyecto.
 • El archivo docs/respuestas.md con todas las respuestas solicitadas durante la práctica.
 • La carpeta docs/evidencias/ con las imágenes que demuestren el desarrollo del flujo.
-• El historial de commits, ramas utilizadas, Pull Requests y cambios integrados en main.
+• El historial de commits, ramas utilizadas, Pull Requests y cambios integrados en main.git
